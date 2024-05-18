@@ -1,10 +1,11 @@
 # Springboot Starter Project
 
-### Dependency
+### Requirements
 * Spring Boot - v3.2.5
 * Spring Security - v6.2.4
 * Database - Postgres
 * Redis cache
+* Java 17
 
 ### Guides
 * Open the project using an IDE, preferably Intellij
@@ -27,5 +28,3 @@
     * application.properties
     * application-dev.properties
     * application-prod.properties
-
-
