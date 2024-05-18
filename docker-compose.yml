@@ -1,0 +1,54 @@
+version: '3.7'
+
+services:
+  postgres:
+    image: postgres:latest
+    container_name: postgres
+    ports:
+      - "5433:5432"
+    environment:
+      POSTGRES_DB: springbootstarter
+      POSTGRES_USER: khaibq
+      POSTGRES_PASSWORD: 123456
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    networks:
+      - my-network
+
+  # Redis service
+  redis:
+    image: redis:latest
+    container_name: redis
+    ports:
+      - "6380:6379"
+    networks:
+      - my-network
+
+  # Spring Boot application service
+  spring-boot-starter:
+    image: spring-boot-starter:latest
+    container_name: spring-boot-starter
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+      - "8081:8080"
+    depends_on:
+      - postgres
+      - redis
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://postgres:5432/springbootstarter
+      SPRING_DATASOURCE_USERNAME: khaibq
+      SPRING_DATASOURCE_PASSWORD: 123456
+      TOKEN_JWT_SECRET: AKHKSJHOIUDOFSHDFJBNKC19283JSBKVBVY12312397123HKJB
+    volumes:
+      - E:/share:/var/www/share
+    networks:
+      - my-network
+
+networks:
+  my-network:
+    driver: bridge
+
+volumes:
+  pgdata:
