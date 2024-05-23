@@ -1,0 +1,258 @@
+[
+  {
+    "code": "92TTT",
+    "value": "Thành phố Cần Thơ"
+  },
+  {
+    "code": "91TTT",
+    "value": "Tỉnh Kiên Giang"
+  },
+  {
+    "code": "75TTT",
+    "value": "Tỉnh Đồng Nai"
+  },
+  {
+    "code": "20TTT",
+    "value": "Tỉnh Lạng Sơn"
+  },
+  {
+    "code": "89TTT",
+    "value": "Tỉnh An Giang"
+  },
+  {
+    "code": "34TTT",
+    "value": "Tỉnh Thái Bình"
+  },
+  {
+    "code": "62TTT",
+    "value": "Tỉnh Kon Tum"
+  },
+  {
+    "code": "45TTT",
+    "value": "Tỉnh Quảng Trị"
+  },
+  {
+    "code": "58TTT",
+    "value": "Tỉnh Ninh Thuận"
+  },
+  {
+    "code": "74TTT",
+    "value": "Tỉnh Bình Dương"
+  },
+  {
+    "code": "37TTT",
+    "value": "Tỉnh Ninh Bình"
+  },
+  {
+    "code": "31TTT",
+    "value": "Thành phố Hải Phòng"
+  },
+  {
+    "code": "95TTT",
+    "value": "Tỉnh Bạc Liêu"
+  },
+  {
+    "code": "08TTT",
+    "value": "Tỉnh Tuyên Quang"
+  },
+  {
+    "code": "14TTT",
+    "value": "Tỉnh Sơn La"
+  },
+  {
+    "code": "36TTT",
+    "value": "Tỉnh Nam Định"
+  },
+  {
+    "code": "25TTT",
+    "value": "Tỉnh Phú Thọ"
+  },
+  {
+    "code": "42TTT",
+    "value": "Tỉnh Hà Tĩnh"
+  },
+  {
+    "code": "93TTT",
+    "value": "Tỉnh Hậu Giang"
+  },
+  {
+    "code": "82TTT",
+    "value": "Tỉnh Tiền Giang"
+  },
+  {
+    "code": "66TTT",
+    "value": "Tỉnh Đắk Lắk"
+  },
+  {
+    "code": "80TTT",
+    "value": "Tỉnh Long An"
+  },
+  {
+    "code": "17TTT",
+    "value": "Tỉnh Hòa Bình"
+  },
+  {
+    "code": "87TTT",
+    "value": "Tỉnh Đồng Tháp"
+  },
+  {
+    "code": "19TTT",
+    "value": "Tỉnh Thái Nguyên"
+  },
+  {
+    "code": "83TTT",
+    "value": "Tỉnh Bến Tre"
+  },
+  {
+    "code": "54TTT",
+    "value": "Tỉnh Phú Yên"
+  },
+  {
+    "code": "26TTT",
+    "value": "Tỉnh Vĩnh Phúc"
+  },
+  {
+    "code": "94TTT",
+    "value": "Tỉnh Sóc Trăng"
+  },
+  {
+    "code": "60TTT",
+    "value": "Tỉnh Bình Thuận"
+  },
+  {
+    "code": "51TTT",
+    "value": "Tỉnh Quảng Ngãi"
+  },
+  {
+    "code": "64TTT",
+    "value": "Tỉnh Gia Lai"
+  },
+  {
+    "code": "77TTT",
+    "value": "Tỉnh Bà Rịa - Vũng Tàu"
+  },
+  {
+    "code": "79TTT",
+    "value": "Thành phố Hồ Chí Minh"
+  },
+  {
+    "code": "02TTT",
+    "value": "Tỉnh Hà Giang"
+  },
+  {
+    "code": "68TTT",
+    "value": "Tỉnh Lâm Đồng"
+  },
+  {
+    "code": "35TTT",
+    "value": "Tỉnh Hà Nam"
+  },
+  {
+    "code": "48TTT",
+    "value": "Thành phố Đà Nẵng"
+  },
+  {
+    "code": "70TTT",
+    "value": "Tỉnh Bình Phước"
+  },
+  {
+    "code": "49TTT",
+    "value": "Tỉnh Quảng Nam"
+  },
+  {
+    "code": "38TTT",
+    "value": "Tỉnh Thanh Hóa"
+  },
+  {
+    "code": "84TTT",
+    "value": "Tỉnh Trà Vinh"
+  },
+  {
+    "code": "11TTT",
+    "value": "Tỉnh Điện Biên"
+  },
+  {
+    "code": "27TTT",
+    "value": "Tỉnh Bắc Ninh"
+  },
+  {
+    "code": "30TTT",
+    "value": "Tỉnh Hải Dương"
+  },
+  {
+    "code": "46TTT",
+    "value": "Tỉnh Thừa Thiên Huế"
+  },
+  {
+    "code": "67TTT",
+    "value": "Tỉnh Đắk Nông"
+  },
+  {
+    "code": "44TTT",
+    "value": "Tỉnh Quảng Bình"
+  },
+  {
+    "code": "22TTT",
+    "value": "Tỉnh Quảng Ninh"
+  },
+  {
+    "code": "33TTT",
+    "value": "Tỉnh Hưng Yên"
+  },
+  {
+    "code": "96TTT",
+    "value": "Tỉnh Cà Mau"
+  },
+  {
+    "code": "10TTT",
+    "value": "Tỉnh Lào Cai"
+  },
+  {
+    "code": "56TTT",
+    "value": "Tỉnh Khánh Hòa"
+  },
+  {
+    "code": "40TTT",
+    "value": "Tỉnh Nghệ An"
+  },
+  {
+    "code": "12TTT",
+    "value": "Tỉnh Lai Châu"
+  },
+  {
+    "code": "72TTT",
+    "value": "Tỉnh Tây Ninh"
+  },
+  {
+    "code": "86TTT",
+    "value": "Tỉnh Vĩnh Long"
+  },
+  {
+    "code": "24TTT",
+    "value": "Tỉnh Bắc Giang"
+  },
+  {
+    "code": "04TTT",
+    "value": "Tỉnh Cao Bằng"
+  },
+  {
+    "code": "15TTT",
+    "value": "Tỉnh Yên Bái"
+  },
+  {
+    "code": "52TTT",
+    "value": "Tỉnh Bình Định"
+  },
+  {
+    "code": "01TTT",
+    "value": "Thành phố Hà Nội"
+  },
+  {
+    "code": "06TTT",
+    "value": "Tỉnh Bắc Kạn"
+  },
+  {
+    "code": "97TTT",
+    "value": "Bộ quốc phòng"
+  }
+]
