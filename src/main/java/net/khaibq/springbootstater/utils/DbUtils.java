@@ -24,6 +24,14 @@ public class DbUtils {
         return query;
     }
 
+    public Query<Long> buildCountQuery(Session session, String sql, Map<String, Object> params) {
+        Query<Long> query = session.createNativeQuery(sql, Long.class);
+        for (String key : params.keySet()) {
+            query.setParameter(key, params.get(key));
+        }
+        return query;
+    }
+
     public <T> T transformData(Object[] values, String[] fields, Class<T> targetType) {
         Map<String, Object> data = new HashMap<>();
         for (int i = 0; i < fields.length; i++) {
